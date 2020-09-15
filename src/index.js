@@ -9,6 +9,7 @@ import reducers from './reducers';
 const composeEnhancers = window.__REDUX_DEVTOOLS_EXTENSION_COMPOSE__ || compose;
 const store = createStore(reducers, applyMiddleware(reduxThunk));
 
+console.log('ENDPOINT', process.env.REACT_APP_TMDB_API_KEY + '/api');
 ReactDOM.render(
   <Provider store={store}>
     <App />
