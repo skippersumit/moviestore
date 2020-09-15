@@ -1,6 +1,6 @@
 {
   "name": "moviestore",
-  "homepage": ".",
+  "homepage": "https://react-moviestore.herokuapp.com",
   "version": "0.1.0",
   "private": true,
   "engines": {
