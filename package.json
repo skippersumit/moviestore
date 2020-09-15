@@ -1,6 +1,6 @@
 {
   "name": "moviestore",
-  "homepage": "https://skippersumit.github.io/moviestore",
+  "homepage": ".",
   "version": "0.1.0",
   "private": true,
   "engines": {
