@@ -1,4 +1,4 @@
-# MovieCards
+# Movie Store
 
 ## Features
 
